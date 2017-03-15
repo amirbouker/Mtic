@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 int Sod[10][10];
-int Game[10][10];
+int Game[10];
 //print matri 
 void affiche(int Mat[10][10])
 {
